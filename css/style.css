@@ -1,0 +1,40 @@
+body {
+  font-family: 'Staatliches', cursive;
+}
+
+#main-header img {
+  width: 100%;
+  height: 100%;
+}
+
+#main-header .port-item {
+  width: 34%;
+}
+
+#main-header .port-item:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.main-social-icon {
+  padding: 0 1em; 
+}
+
+.main-social-icon:hover {
+  opacity: 0.6;
+}
+
+.bg-black {
+  color: #fff;
+  background: #000;
+}
+
+.a:hover {
+  text-decoration: none;
+}
+
+@media (min-width: 1199px) {
+  .port-item {
+    padding: 3em !important;
+  }
+}
