@@ -37,6 +37,16 @@ body {
   text-decoration: none;
 }
 
+.media-icon {
+  width: 40px;
+  text-align: start;
+  margin-top: auto;
+}
+
+.media-text {
+  font-size: 1.5rem;
+}
+
 @media (min-width: 1199px) {
   .port-item {
     padding: 3em !important;
