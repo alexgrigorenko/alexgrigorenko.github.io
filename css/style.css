@@ -1,5 +1,5 @@
 body {
-  font-family: 'Staatliches', cursive;
+  font-family: "Staatliches", cursive;
 }
 
 .name {
@@ -21,7 +21,7 @@ body {
 }
 
 .main-social-icon {
-  padding: 0 1em; 
+  padding: 0 1em;
 }
 
 .main-social-icon:hover {
